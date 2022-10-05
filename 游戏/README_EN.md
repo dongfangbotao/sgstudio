@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href=""><img src="" width="100" height="100" alt="EatKano"></a>
 </p>
 
 <div align="center">
@@ -14,11 +14,11 @@ _🦌 Web Game 🥛_
 ## Introduction
 A web game: EatKano
 
-[Kano's Twitter](https://twitter.com/kano_2525)
+[Kano's Twitter]()
 |
-[Online Version](https://xingye.me/game/eatkano/index.php)
+[Online Version]()
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Github Pages]()
 
 ## Features
 
@@ -32,7 +32,7 @@ You can delete all the sql/php files if you don't need them.
 
 ## Usage
 
-Note: if you just want to play it, go to [online version](https://xingye.me/game/eatkano/index.php). Here is how to create your own version.
+Note: if you just want to play it, go to [online version](). Here is how to create your own version.
 
 ### Github Pages
 
