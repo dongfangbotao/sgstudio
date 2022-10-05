@@ -12,15 +12,15 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉巅峰
 
 [English](README_EN.md)
 |
-[鹿乃b站](https://space.bilibili.com/316381099)
+b站]()
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
+[线上版本]()
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Github Pages]()
 
 ## 可选功能
 
@@ -38,7 +38,7 @@ _🦌 网页小游戏 🥛_
 
 ### Github Pages
 
-点 [这里](https://www.bilibili.com/video/BV1r94y1d765) 看视频步骤
+点 [这里]() 看视频步骤
 
 如果你不需要排行榜, 那么部署到Github Pages即可.
 
